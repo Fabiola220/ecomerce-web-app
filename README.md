@@ -9,9 +9,6 @@ A Multi-lingual E-Commerce website built with Django and Python.
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
-* [Contact](#contact)
-* [License](#license)
-* [Contributing](#contributing)
 
 
 ## General info
@@ -131,28 +128,5 @@ To run this app, you will need to follow these 3 steps:
   >>> http://127.0.0.1:XXXX
   
   
-  # Django Admin
-  >>> http://127.0.0.1:XXXX/admin/
-  ```
-
-
-## Status
-Project is: _done_
-
-## Contact
-Created by [Williano](https://williano.github.io/) - feel free to contact me!
-
-## License
->You can check out the full license [here](https://github.com/Williano/Final-Senior-Year-Project-/blob/master/LICENSE.md)
-
-This project is licensed under the terms of the **MIT** license.
-
-## Contributing
-
-1. Fork it (<https://github.com/Williano/Final-Senior-Year-Project-.git>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 
