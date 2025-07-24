@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 William Kpabitey Kwabla
+Copyright (c) 2018 myriam fabiola signi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
